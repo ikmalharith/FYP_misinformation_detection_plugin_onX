@@ -3,3 +3,4 @@ __pycache__/
 misinformation_env/
 config.py
 node_modules/
+key.env
